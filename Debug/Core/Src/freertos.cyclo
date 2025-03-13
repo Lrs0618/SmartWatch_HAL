@@ -1,0 +1,3 @@
+../Core/Src/freertos.c:84:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:130:6:StartDefaultTask	1
+../Core/Src/freertos.c:152:6:ui_renderer	5

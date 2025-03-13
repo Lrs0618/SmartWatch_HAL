@@ -1,0 +1,6 @@
+../MID/UI/ui_animation.c:10:6:ui_animation_on	2
+../MID/UI/ui_animation.c:18:6:ui_animation_calculator	5
+../MID/UI/ui_animation.c:63:7:easeInOutCubic	1
+../MID/UI/ui_animation.c:67:7:easeInOutQuad	2
+../MID/UI/ui_animation.c:75:7:easeOutQuad	1
+../MID/UI/ui_animation.c:79:7:easeInQuad	1

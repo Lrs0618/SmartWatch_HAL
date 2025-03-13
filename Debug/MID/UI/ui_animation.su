@@ -1,0 +1,6 @@
+../MID/UI/ui_animation.c:10:6:ui_animation_on	16	static
+../MID/UI/ui_animation.c:18:6:ui_animation_calculator	40	static
+../MID/UI/ui_animation.c:63:7:easeInOutCubic	24	static
+../MID/UI/ui_animation.c:67:7:easeInOutQuad	24	static
+../MID/UI/ui_animation.c:75:7:easeOutQuad	24	static
+../MID/UI/ui_animation.c:79:7:easeInQuad	16	static
